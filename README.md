@@ -4,7 +4,7 @@
 
 <a href="https://i.imgur.com/eBpqImu.png"><img src="https://i.imgur.com/eBpqImu.png" title="source: imgur.com" /></a>
 
-<h2>Dotfiles for EndeavourOS</h2>
+<h2>Dotfiles for Archlinux BSPWM</h2>
 
 <ul>
   <li>BSPWM</li>
