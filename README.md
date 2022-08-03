@@ -2,7 +2,7 @@
      Arch Gold - BSPWM
 </h1>
 
-<a href="https://imgur.com/a/pXupUqk"><img src="https://imgur.com/a/pXupUqk.png" title="source: imgur.com" /></a>
+<a href="https://i.imgur.com/eBpqImu.png"><img src="https://i.imgur.com/eBpqImu.png" title="source: imgur.com" /></a>
 
 <h2>Dotfiles for EndeavourOS</h2>
 
