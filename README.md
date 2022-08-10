@@ -12,7 +12,7 @@
   <li>ZSHELL + POWERLEVEL10K</li>
   <li>ALACRITTY TERMINAL</li>
   <li>SXHKD</li>
-  <li>NeoVim + Nchad</li>
+
   <li>Picom<li>
 </ul> 
 
@@ -22,5 +22,8 @@
   <li>Yay</li>
   <li>Brillo</li>
   <li>Thunar</li>
-  <li></li>
+  <li>Flameshot</li>
+  <li>NeoVim</li>
+  <li>Nchad</li>
+  <li>LunarVim</li>
 </ul> 
