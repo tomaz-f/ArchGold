@@ -121,10 +121,12 @@ super + {Left,Down,Up,Right}
 	bspc node -v {-20 0,0 20,0 -20,20 0}
 
 # volume control
-XF86Audio{Raise,Lower}Volume
-    pactl set-sink-volume @DEFAULT_SINK@ {+,-}5%
+XF86AudioRaiseVolume
+  pactl set-sink-volume 0 +5%
+XF86AudioLowerVolume
+  pactl set-sink-volume 0 -5%
 XF86AudioMute
-    pactl set-sink-mute @DEFAULT_SINK@ toggle
+  pactl set-sink-mute 0 toggle
 
 # brightness control
 XF86MonBrightnessDown
@@ -135,3 +137,7 @@ XF86MonBrightnessUp
 # ScreenShot
 Print
 	flameshot gui
+
+# BetterLockScreen
+super + x
+	betterlockscreen -l
