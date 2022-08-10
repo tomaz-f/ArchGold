@@ -12,8 +12,7 @@
   <li>ZSHELL + POWERLEVEL10K</li>
   <li>ALACRITTY TERMINAL</li>
   <li>SXHKD</li>
-
-  <li>Picom<li>
+  <li>Picom</li>
 </ul> 
 
 <h2>Essencial Packages</h2>
@@ -26,4 +25,11 @@
   <li>NeoVim</li>
   <li>Nchad</li>
   <li>LunarVim</li>
+</ul> 
+
+<h2>Fonts</h2>
+
+<ul>
+  <li>MesloLGS NF</li>
+  <li>JetBrainsMono Nerd Fonts</li>
 </ul> 
